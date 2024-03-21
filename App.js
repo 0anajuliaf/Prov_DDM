@@ -7,8 +7,8 @@ export default function App() {
       <Text>Ana Júlia e Anna Beatriz</Text>
       <AnaJulia/>
       <AnnaBeatriz/>
-      
-     
+
+     <Text>Ana</Text>
       <StatusBar style="auto" />
     </View>
   );
